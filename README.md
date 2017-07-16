@@ -1,4 +1,4 @@
-﻿# Miner GUI (latest version 1.2.3)
+﻿# Miner GUI (latest version 1.2.4)
 This is a simple GUI tool for ZEC / ETH mining. Miner GUI is based on existing miners and the main purpose of this program is to popularize GPU mining to those who are interested in GPU mining but unskilled in computer programs and operations.
 This program supports multiple languages and it is easier to use for those who are unskilled in English. Furthermore, we add some features to improve user experiences in monitoring and maintenance.
 To monitor in cloud, please kindly visit our website: https://www.minergui.com/
@@ -62,10 +62,15 @@ ETH - 不向使用者收取額外費用。
 **cudart64_80.dll** 是必須的。安裝完顯示卡驅動程式後應該會出現在電腦中，您也可以從以下連結下載 https://drive.google.com/drive/folders/0B4bhHjcQpa3tVTlTaGEtSW1hV1k
 
      
+## miner_gui 1.2.4
+Improve ETH mining stability.   
+加強ETH挖礦的穩定度
+
+     
 ## miner_gui 1.2.3
 New feature: display network latency.   
 Improve ZEC mining stability.   
-新功能： 雲端監控   
+新功能： 顯示網路延遲   
 加強ZEC挖礦的穩定度
 
      
