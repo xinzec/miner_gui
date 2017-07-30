@@ -1,11 +1,16 @@
-﻿# Miner GUI (latest version 1.2.4)
+﻿# Miner GUI (latest version 1.3.1)
 This is a simple GUI tool for ZEC / ETH mining. Miner GUI is based on existing miners and the main purpose of this program is to popularize GPU mining to those who are interested in GPU mining but unskilled in computer programs and operations.
 This program supports multiple languages and it is easier to use for those who are unskilled in English. Furthermore, we add some features to improve user experiences in monitoring and maintenance.
-To monitor in cloud, please kindly visit our website: https://www.minergui.com/
+To monitor in cloud, please kindly visit our website: https://www.minergui.com/  
+If you have any feedback, please kindly contact us by email.  
+service@minergui.com  
 
 這是一個針對ZEC與ETH開發的圖形化用戶介面挖礦工具，Miner GUI是基於現有的挖礦程式改良，此程式主要的目的是將顯示卡挖礦推廣給對顯示卡挖礦有興趣但又不熟悉電腦程式與系統操作的人們。
 這個程式支援多種語言以方便不熟悉英文的人使用，此外，我們加入了一些功能來強化狀態監看與程式維護的體驗。
-請參訪我們的網頁: https://www.minergui.com/ 以進行雲端監控。
+請參訪我們的網頁: https://www.minergui.com/ 以進行雲端監控。  
+若您想和我們聯絡或提供任何建議，請使用下列email address  
+service@minergui.com  
+
 
      
 # Start mining with an easy miner tool
@@ -33,12 +38,12 @@ Basically, the performance is as good as the miner without this GUI tool.
 
       
 ### Supported miner:
-ZEC - EWBF's miner 0.3.4b (NVIDIA only)  
+ZEC - EWBF's miner 0.3.4b + Claymore's ZEC miner v12.4  
 ETH - Claymore's ETH miner v9.7
 
       
 ### 支持的挖礦程式:  
-ZEC - EWBF's miner 0.3.4b (僅支援NVIDIA)  
+ZEC - EWBF's miner 0.3.4b + Claymore's ZEC miner v12.4  
 ETH - Claymore's ETH miner v9.7
 
       
@@ -60,6 +65,11 @@ ETH - 不向使用者收取額外費用。
 ### 注意事項
 **64位元 適用於 Visual Studio 2015 的 Visual C++ 可轉散髮套件** 是必須的，您可以從以下連結下載安裝檔https://www.microsoft.com/zh-TW/download/details.aspx?id=48145 或者 https://drive.google.com/drive/folders/0B4bhHjcQpa3tVTlTaGEtSW1hV1k
 **cudart64_80.dll** 是必須的。安裝完顯示卡驅動程式後應該會出現在電腦中，您也可以從以下連結下載 https://drive.google.com/drive/folders/0B4bhHjcQpa3tVTlTaGEtSW1hV1k
+
+     
+## miner_gui 1.3.1
+add ZEC miner for AMD cards.   
+新增AMD顯示卡的ZEC挖礦程式
 
      
 ## miner_gui 1.2.4
