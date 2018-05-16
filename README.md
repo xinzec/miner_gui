@@ -1,4 +1,10 @@
-﻿# Miner GUI (latest version 1.3.7)
+﻿# The MinerGUI support has ended and the cloud service will be terminated.  
+# Please contact service@minergui.com before June 15, 2018 if you require any further support.  
+
+# MinerGUI的支援已經停止，雲端監控服務也將在近期終止。  
+# 若您需要更多支援，請於2018年6月15日前聯絡service@minergui.com  
+  
+# Miner GUI (latest version 1.4.0)
 This is a simple GUI software/tool for ZEC / ETH GPU mining. Miner GUI is based on existing miners and the main purpose of this program is to popularize GPU mining to those who are interested in GPU mining but unskilled in computer programs and operations.
 This program supports multiple languages and it is easier to use for those who are unskilled in English. Furthermore, we add some features to improve user experiences in monitoring and maintenance.
 To monitor in cloud, please kindly visit our website: https://www.minergui.com/  
@@ -67,10 +73,14 @@ ETH - 不向使用者收取額外費用。
 **cudart64_80.dll** 是必須的。安裝完顯示卡驅動程式後應該會出現在電腦中，您也可以從以下連結下載 https://drive.google.com/drive/folders/0B4bhHjcQpa3tVTlTaGEtSW1hV1k
 
      
+## miner_gui 1.4.0
+Remove cloud services.  
+移除雲端服務
+
+     
 ## miner_gui 1.3.7
 Bug fix.   
 修正錯誤
-
 
      
 ## miner_gui 1.3.6
